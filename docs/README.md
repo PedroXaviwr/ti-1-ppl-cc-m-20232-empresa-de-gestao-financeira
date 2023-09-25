@@ -58,20 +58,30 @@ CURSO
 
 
 # Introdução
+Uma gestão financeira eficiente é essencial para indivíduos, famílias e empresas. Ela oferece controle financeiro, tomada de decisões informadas, economia para metas de longo prazo e uma rede de segurança contra imprevistos. Para empresas, ajuda a maximizar lucros, atrair investidores e cumprir obrigações fiscais. Em resumo, uma gestão financeira bem-feita é fundamental para alcançar estabilidade, prosperidade e segurança financeira.
 
+Visto isso,faz-se útil a utilização de algum tipo de serviço que possa ajudar e mostrar que a gestao financeira pode ser feita de uma forma simples.
+
+A proposta do nosso site é justamente essa, facilitar ao máximo a vida dos usuários, mostrando formas de controlar seus rendimentos.
 
 
 ## Problema
-
+Conforme dito na introdução, o problema principal a ser enfrentado neste projeto é atender as necessidades dos usuários, dando a possibilidade de organizar seus rendimentos e ter um local para separar seus gastos da forma que preferir.
 
 
 ## Objetivos
+O objetivo geral deste trabalho é criar uma plataforma que ajude os usuários a controlar, analisar e melhorar suas finanças pessoais, fornecer aos usuários as ferramentas e os recursos necessários para melhorar sua saúde financeira, tomar decisões informadas e alcançar seus objetivos financeiros de curto e longo prazo.
 
+Como objetivos específicos, podemos ressaltar:
+Controle Financeiro: Permitir que os usuários registrem e acompanhem todas as suas transações financeiras, incluindo despesas e receitas.
 
+Orçamento Personalizado: Oferecer a capacidade de criar e acompanhar orçamentos personalizados, ajudando os usuários a definir metas financeiras realistas.
+
+Análise de Gastos: Fornecer ferramentas de análise para que os usuários possam entender onde estão gastando seu dinheiro e identificar áreas para economizar.
 
 ## Justificativa
-
-
+Atualmente o Brasil se encontra em um período de crise, por isso, economizar em todos os aspectos possíveis é essencial, devido à crescente demanda por ferramentas e recursos que ajudem as pessoas a lidar com suas finanças de forma mais eficaz, além de fornecer educação financeira, automatização, segurança e suporte na tomada de decisões financeiras mais informadas. Isso pode contribuir significativamente para a saúde financeira dos indivíduos e das empresas.
+      
 
 ## Público-Alvo
 
